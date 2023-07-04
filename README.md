@@ -20,8 +20,5 @@ Secure your API (optional): If required, you can implement authentication and au
 
 Handle exceptions: Implement exception handling mechanisms to provide appropriate error responses for different scenarios. Use Spring's @ControllerAdvice and @ExceptionHandler annotations to handle exceptions globally or for specific controllers.
 
-Build and deploy: Once your API is ready, build the project and deploy it to a server or a cloud platform of your choice.
-
-By following these steps, you can develop a REST API using Spring Boot with MySQL as the database backend. Remember to follow best practices, such as input validation, error handling and to create a robust and reliable API.
  	
 
