@@ -1,6 +1,9 @@
 # RESTAPI-SpringBoot
 
 ### Technologies uses
-+ Mysql
-  $${\color{blue}Ankit}$$	
++ Dependency
+  1 Spring Web
+  2 Spring Data JPA
+  3 Spring MySql
+ 	
 
